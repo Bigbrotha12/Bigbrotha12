@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 <div>
-  <img src="https://media.giphy.com/media/Wu4TiWLLFqxk4KMRiU/giphy.gif" />
+  <img src="https://media.giphy.com/media/Wu4TiWLLFqxk4KMRiU/giphy.gif" heigth=40px width=40px />
 </div>
 
 <!---
