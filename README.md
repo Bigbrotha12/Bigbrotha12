@@ -1,12 +1,13 @@
+<div id="header" align= "center">
+  <img src="https://imgur.com/eHyMq3g" height=200px width=100% />
+</div>
 - 👋 Hi, I’m @Bigbrotha12
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<div>
-  <img src="https://media.giphy.com/media/Wu4TiWLLFqxk4KMRiU/giphy.gif" heigth=40px width=40px />
-</div>
+
 
 <!---
 Bigbrotha12/Bigbrotha12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
